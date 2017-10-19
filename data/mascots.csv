@@ -1,0 +1,167 @@
+name,state,city,mascot,league,sport,class,subclass_one,sublcass_two,subclass_three,native_animal,present
+Baltimore Orioles,Maryland,Baltimore,Orioles,MLB,baseball,animal,bird,song bird,,yes,yes
+Arizona Diamondback,Arizona,Phoenix,Diamondback,MLB,baseball,animal,reptile,,,yes,yes
+Boston Red Sox,Massachusetts,Boston,Red Sox,MLB,baseball,apparel,,,,,
+Atlanta Braves,Georgia,Atlanta,Braves,MLB,baseball,people,native american,,,,
+Chicago White Sox,Illinois,Chicago,White Sox,MLB,baseball,apparel,,,,,
+Chicago Cubs,Illinois,Chicago,Cubs,MLB,baseball,animal,mammal,large mammal,,yes,no
+Cleveland  Indians,Ohio,Cleveland ,Indians,MLB,baseball,people,native american,,,,
+Cincinnati Reds,Ohio,Cincinnati,Reds,MLB,baseball,apparel,,,,,
+Detroit Tigers,Michigan,Detroit,Tigers,MLB,baseball,animal,mammal,large mammal,,no,no
+Colorado Rockies,Colorado,Denver,Rockies,MLB,baseball,geography,,,,,
+Houston Astros,Texas,Houston,Astros,MLB,baseball,people,,,,,
+Los Angeles Dodgers,California,Los Angeles,Dodgers,MLB,baseball,people,,,,,
+Kansas City Royals,Missouri,Kansas City,Royals,MLB,baseball,people,royalty,,,,
+Miami Marlins,Florida,Miami,Marlins,MLB,baseball,animal,fish,,,yes,yes
+Los Angeles Angels,California,Los Angeles,Angels,MLB,baseball,people,mythologic,,,,
+Milwaukee Brewers,Wisconsin,Milwaukee,Brewers,MLB,baseball,people,occupation,,,,
+Minnesota Twins,Minnesota,Minneapolis,Twins,MLB,baseball,concept,,,,,
+New York Mets,New York,New York,Mets,MLB,baseball,people,city,,,,
+New York Yankees,New York,New York,Yankees,MLB,baseball,people,city,,,,
+Philadelphia Phillies,Pennsylvania,Philadelphia,Phillies,MLB,baseball,people,city,,,,
+Oakland Athletics,California,Oakland,Athletics,MLB,baseball,people,,,,,
+Pittsburgh Pirates,Pennsylvania,Pittsburgh,Pirates,MLB,baseball,people,,,,,
+Seattle Mariners,Washington,Seattle,Mariners,MLB,baseball,people,occupation,,,,
+San Diego Padres,California,San Diego,Padres,MLB,baseball,people,occupation,,,,
+Tampa Bay Rays,Florida,Tampa Bay,Rays,MLB,baseball,animal,fish,,,yes,yes
+San Francisco Giants,California,San Francisco,Giants,MLB,baseball,people,disputed,,,,
+Texas Rangers,Texas,Arlington,Rangers,MLB,baseball,people,occupation,,,,
+St. Louis Cardinals,Missouri,St. Louis,Cardinals,MLB,baseball,animal,bird,song bird,,yes,yes
+Toronto Blue Jays,Ontario,Toronto,Blue Jays,MLB,baseball,animal,bird,song bird,,yes,yes
+Washington Nationals,DC,DC,Nationals,MLB,baseball,people,regional,,,,
+Buffalo Bills,New York,Buffalo,Bills,NFL,football,animal,mammal,large mammal,,disputed,no
+Miami Dolphins,Florida,Miami,Dolphins,NFL,football,animal,fish,,,yes,yes
+New England Patriots,Massachusetts,Foxboro,Patriots,NFL,football,people,historic,,,,
+New York Jets,New York,New York,Jets,NFL,football,technology,,,,,
+Baltimore Ravens,Maryland,Baltimore,Ravens,NFL,football,animal,bird,other,,yes,yes
+Cincinnati Bengals,Ohio,Cincinnati,Bengals,NFL,football,animal,mammal,large mammal,,no,no
+Cleveland  Browns,Ohio,Cleveland ,Browns,NFL,football,people,historic person,,,,
+Pittsburgh Steelers,Pennsylvania,Pittsburgh,Steelers,NFL,football,people,occupation,,,,
+Houston Texans,Texas,Houston,Texans,NFL,football,people,regional,,,,
+Indianapolis Colts,Indiana,Indianapolis,Colts,NFL,football,animal,mammal,large mammal,,domesticated,no
+Jacksonville Jaguars,Florida,Jacksonville,Jaguars,NFL,football,animal,mammal,large mammal,,yes,maybe
+Tennessee Titans,Tennessee,Nasheville,Titans,NFL,football,people,mythologic,,,,
+Denver Broncos,Colorado,Denver,Broncos,NFL,football,animal,mammal,large mammal,,domesticated,no
+Kansas City Chiefs,Missouri,Kansas City,Chiefs,NFL,football,people,native american,,,,
+Oakland Raiders,California,Oakland,Raiders,NFL,football,people,historic,,,,
+Los Angeles Chargers,California,Los Angeles,Chargers,NFL,football,concept,name the team contest,,,,
+Dallas Cowboys,Texas,Dallas,Cowboys,NFL,football,people,occupation,,,,
+New York Giants,New York,New York,Giants,NFL,football,other,,,,,
+Philadelphia Eagles,Pennsylvania,Philadelphia,Eagles,NFL,football,animal,birds of prey,,,yes,yes
+Washington Redskins,DC,DC,Redskins,NFL,football,people,native american,,,,
+Chicago Bears,Illinois,Chicago,Bears,NFL,football,animal,mammal,large mammal,,yes,no
+Detroit Lions,Michigan,Detroit,Lions,NFL,football,animal,mammal,large mammal,,no,no
+Green Bay Packers,Wisconsin,Green Bay,Packers,NFL,football,people,occupation,,,,
+Minnesota Vikings,Minnesota,Minnesota,Vikings,NFL,football,people,historic,,,,
+Atlanta Falcons,Georgia,Atlanta,Falcons,NFL,football,animal,bird,bird of prey,,yes,yes
+Carolina Panthers,North Carolina,Carolina,Panthers,NFL,football,animal,mammal,large mammal,,yes,no
+New Orleans Saints,Louisana,New Orleans,Saints,NFL,football,people,historic,,,,
+Tampa Bay Buccaneers,Florida,Tampa Bay,Buccaneers,NFL,football,people,historic,,,,
+Arizona Cardinals,Arizona,Phoenix,Cardinals,NFL,football,animal,bird,song bird,,yes,yes
+Los Angeles Rams,California,Los Angeles,Rams,NFL,football,animal,mammal,large mammal,,yes,yes
+San Francisco 49ers,California,San Francisco,49ers,NFL,football,people,historic,,,,
+Seattle Seahawks,Washington,Seattle,Seahawks,NFL,football,animal,bird,bird of prey,,yes,yes
+Atlanta Hawks,Georgia,Atlanta,Hawks,NBA,basketball,animal,bird,bird of prey,,yes,yes
+Boston Celtics,Massachusetts,Boston,Celtics,NBA,basketball,people,historic,,,,
+Brooklyn Nets,New York,Brooklyn,Nets,NBA,basketball,technology,,,,,
+Charlotte Bobcats,North Carolina,Charlotte,Bobcats,NBA,basketball,animal,mammal,small mammal,,yes,yes
+Chicago Bulls,Illinois,Chicago,Bulls,NBA,basketball,animal,mammal,large mammal,,domesticated,no
+Cleveland  Cavaliers,Ohio,Cleveland ,Cavaliers,NBA,basketball,people,historic,,,,
+Dallas Mavericks,Texas,Dallas,Mavericks,NBA,basketball,people,historic,regional,,,
+Denver Nuggets,Colorado,Denver,Nuggets,NBA,basketball,geography,geology,,,,
+Detroit Pistons,Michigan,Detroit,Pistons,NBA,basketball,technology,regional,,,,
+Golden State Warriors,California,San Francisco,Warriors,NBA,basketball,people,historic,,,,
+Houston Rockets,Texas,Houston,Rockets,NBA,basketball,technology,regional,,,,
+Indiana Pacers,Indiana,Indianapolis,Pacers,NBA,basketball,technology,regional,,,,
+Los Angeles Clippers,California,Los Angeles,Clippers,NBA,basketball,technology,regional,,,,
+Los Angeles Lakers,California,Los Angeles,Lakers,NBA,basketball,geography,regional,,,,
+Memphis Grizzlies,Tennessee,Memphis,Grizzlies,NBA,basketball,animal,mammal,large mammal,,no,no
+Miami Heat,Florida,Miami,Heat,NBA,basketball,weather,regional,,,,
+Milwaukee Bucks,Wisconsin,Milwaukee,Bucks,NBA,basketball,animal,mammal,large mammal,herbivore,yes,yes
+Minnesota Timberwolves,Minnesota,Minneapolis,Timberwolves,NBA,basketball,animal,mammal,large mammal,carniovore,yes,yes
+New Orleans Hornets,Louisana,New Orleans,Hornets,NBA,basketball,animal,insect,,,yes,yes
+New York Knicks,New York,New York,Knicks,NBA,basketball,people,historic,,,,
+Oklahoma City Thunder,Oklahoma,Oklahoma City,Thunder,NBA,basketball,weather,,,,,
+Orlando Magic,Florida,Orlando,Magic,NBA,basketball,concept,mythologic,,,,
+Philadelphia Sixers,Pennsylvania,Philadelphia,Sixers,NBA,basketball,people,historic,,,,
+Phoenix Sun,Arizona,Phoenix,Sun,NBA,basketball,weather,,,,,
+Portland Trail Blazors,Oregon,Portland,Trail Blazors,NBA,basketball,people,historic,,,,
+Sacremento Kings,California,Sacremento,Kings,NBA,basketball,people,historic,,,,
+San Antonio Spurs,Texas,San Antonio,Spurs,NBA,basketball,technology,,,,,
+Utah Jazz,Utah,Salt Lake City,Jazz,NBA,basketball,concept,,,,,
+Washington Wizards,DC,DC,Wizards,NBA,basketball,people,mythologic,,,,
+Boston Bruins,Massachusetts,Boston,Bruins,NHL,hockey,animal,mammal,large mammal,,yes,yes
+Buffalo Sabres,New York,Buffalo,Sabres,NHL,hockey,technology,name the team contest,,,,
+Detroit Red Wings,Michigan,Detroit,Red Wings,NHL,hockey,other,,,,,
+Florida Panthers,Florida,Miami,Panthers,NHL,hockey,animal,mammal,large mammal,carniovore,yes,yes
+Montreal Canadiens,Quebec,Montreal,Canadiens,NHL,hockey,people,regional,,,,
+Ottawa Senators,Ontario,Ottawa,Senators,NHL,hockey,people,political,,,,
+Tampa Bay Lightning,Florida,Tampa Bay,Lightning,NHL,hockey,weather,,,,,
+Toronto Maple Leafs,Ontario,Toronto,Maple Leafs,NHL,hockey,plant,,,,,
+Carolina Hurricanes,North Carolina,Raleigh,Hurricanes,NHL,hockey,weather,,,,,
+Columbus Blue Jackets,Ohio,Columbus,Blue Jackets,NHL,hockey,apparel,,,,,
+New Jersey Devils,New Jersey,New Jersey,Devils,NHL,hockey,people,mythologic,,,,
+New York Islanders,New York,New York,Islanders,NHL,hockey,people,regional,,,,
+New York Rangers,New York,New York,Rangers,NHL,hockey,people,historic person,,,,
+Philadelphia Flyers,Pennsylvania,Philadelphia,Flyers,NHL,hockey,technology,,,,,
+Pittsburgh Penguins,Pennsylvania,Pittsburgh,Penguins,NHL,hockey,animal,bird,other,,no,no
+Washington Capitals,DC,DC,Capitals,NHL,hockey,geography,poitical,,,,
+Chicago Blackhawks,Illinois,Chicago,Blackhawks,NHL,hockey,people,native american,,,,
+Colorado Avalanche,Colorado,Denver,Avalanche,NHL,hockey,geography,,,,,
+Dallas Stars,Texas,Dallas,Stars,NHL,hockey,space,,,,,
+Minnesota Wild,Minnesota,Minnesota,Wild,NHL,hockey,concept,,,,,
+Nashville Predators,Tennessee,Nashville,Predators,NHL,hockey,animal,mammal,large mammal,extinct,yes,no
+St. Louis Blues,Missouri,St. Louis,Blues,NHL,hockey,concept,music,,,,
+Winnipeg Jets,Manitoba,Winnipeg,Jets,NHL,hockey,technology,,,,,
+Anaheim Ducks,California,Anaheim,Ducks,NHL,hockey,animal,bird,other,,yes,yes
+Arizona Coyotes,Arizona,Phoenix,Coyotes,NHL,hockey,animal,mammal,small mammal,carniovore,yes,yes
+Calgary Flames,Alberta,Calgary,Flames,NHL,hockey,event,historic,,,,
+Edmonton Oilers,Alberta,Edmonton,Oilers,NHL,hockey,people,occupation,,,,
+Los Angeles Kings,California,Los Angeles,Kings,NHL,hockey,people,historic,,,,
+San Jose Sharks,California,San Jose,Sharks,NHL,hockey,animal,fish,,,yes,yes
+Vancouver Canucks,British Columbia,Vancouver,Canucks,NHL,hockey,people,regional,,,,
+Vegas Golden Knights,Nevada,Las Vegas,Golden Knights,NHL,hockey,people,owner liked it,,,,
+Atlanta Dream,Georgia,Atlanta,Dream,WNBA,basketball,concept,,,,,
+Chicago Sky,Illinois,Chicago,Sky,WNBA,basketball,weather,,,,,
+Connecticut Sun,Connecticut,Norwich,Sun,WNBA,basketball,space,,,,,
+Dallas Wings,Texas,Dallas,Wings,WNBA,basketball,concept,,,,,
+Indiana Fever,Indiana,Indianapolis,Fever,WNBA,basketball,concept,,,,,
+Las Vegas Stars,Nevada,Las Vegas,Stars,WNBA,basketball,space,,,,,
+Los Angeles Sparks,California,Los Angeles,Sparks,WNBA,basketball,concept,,,,,
+Minnesota Lynx,Minnesota,Minneapolis,Lynx,WNBA,basketball,animal,mammal,large mammal,carniovore,yes,yes
+New York Liberty,New York,New York,Liberty,WNBA,basketball,concept,,,,,
+Phoenix Mercury,Arizona,Phoenix,Mercury,WNBA,basketball,weather,,,,,
+Seattle Storm,Washington,Seattle,Storm,WNBA,basketball,weather,,,,,
+Washington Mystics,DC,DC,Mystics,WNBA,basketball,people,mythologic,,,,
+New York Red Bulls,New York,New York,Red Bulls,MLS,soccer,product,,,,,
+Kansas City Sporting,Missouri,Kansas City,Sporting,MLS,soccer,concept,,,,,
+Colorado Rapids,Colorado,Denver,Rapids,MLS,soccer,geography,,,,,
+Columbus Crew,Ohio,Columbus,Crew,MLS,soccer,people,occupation,,,,
+New England Revolution,Massachusetts,Boston,Revolution,MLS,soccer,concept,,,,,
+San Jose Earthquakes,California,San Jose,Earthquakes,MLS,soccer,geography,,,,,
+Chicago Fire,Illinois,Chicago,Fire,MLS,soccer,event,historic,,,,
+Los Angeles Galaxy,California,Los Angeles,Galaxy,MLS,soccer,space,,,,,
+DC United,DC,DC,United,MLS,soccer,concept,,,,,
+Portland Timbers,Oregon,Portland,Timbers,MLS,soccer,plant,,,,,
+Montreal Impact,Quebec,Montreal,Impact,MLS,soccer,concept,,,,,
+Vancouver Whitecaps,British Columbia,Vancouver,Whitecaps,MLS,soccer,geography,,,,,
+Houston Dynamo,Texas,Houston,Dynamo,MLS,soccer,concept,,,,,
+Salt Lake Real,Utah,Salt Lake,Real,MLS,soccer,other,,,,,
+Dallas FC,Texas,Dallas,FC,MLS,soccer,other,,,,,
+Toronto FC,Ontario,Toronto,FC,MLS,soccer,other,,,,,
+Seattle Sounders,Washington,Seattle,Sounders,MLS,soccer,geography,,,,,
+Philadelphia Union,Pennsylvania,Philadelphia,Union,MLS,soccer,other,,,,,
+Orlando SC,Florida,Orlando,SC,MLS,soccer,other,,,,,
+Minnesota United,Minnesota,Minneapolis,United,MLS,soccer,other,,,,,
+New York FC,New York,New York,FC,MLS,soccer,other,,,,,
+Atlanta United,Georgia,Atlanta,United,MLS,soccer,other,,,,,
+North Carolina Courage,North Carolina,Cary,Courage,WNLS,soccer,concept,,,,,
+Portland Thorns,Oregon,Portland,Thorns,WNLS,soccer,plant,,,,,
+Orlando Pride,Florida,Orlando,Pride,WNLS,soccer,concept,,,,,
+Chicago Red Stars,Illinois,Chicago,Red Stars,WNLS,soccer,space,,,,,
+Seattle Reign,Washington,Seattle,Reign,WNLS,soccer,concept,,,,,
+Sky Blue FC,New Jersey,Sky Blue,Sky Blue,WNLS,soccer,weather,,,,,
+Kansas City FC,Missouri,Kansas City,FC,WNLS,soccer,other,,,,,
+Houston Dash,Texas,Houston,Dash,WNLS,soccer,concept,,,,,
+Boston Breakers,Massachusetts,Boston,Breakers,WNLS,soccer,geography,,,,,
+Washington Spirit,DC,DC,Spirit,WNLS,soccer,concept,,,,,
